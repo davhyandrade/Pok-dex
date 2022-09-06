@@ -1,4 +1,4 @@
-# Simulação através da API Poke-Api
+# Simulação de uma Poké-Agenda
 
 ## Pokédex
 

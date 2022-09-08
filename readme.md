@@ -1,6 +1,6 @@
-# Simulação de uma Poké-Agenda
+# Pokédex
 
-## Pokédex
+<img src="https://i.postimg.cc/65FCFK9y/pokedex-img.png" width="100%">
 
 Desenvolvido pelo:
 
@@ -11,8 +11,6 @@ Desenvolvido pelo:
 * JavaScript
 
 Através de uma API ao qual foi feito a simulação de uma Pokédex, acessório do anime Pokemon, também conhecida como Poké-Agenda.
-
-<img src="https://i.postimg.cc/65FCFK9y/pokedex-img.png" width="550px">
 
 ##
 

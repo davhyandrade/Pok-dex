@@ -1,5 +1,7 @@
 # Pokédex
 
+> Status: Concluded
+
 <img src="https://i.postimg.cc/65FCFK9y/pokedex-img.png" width="100%">
 
 Desenvolvido pelo:

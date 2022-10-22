@@ -12,7 +12,7 @@ Desenvolvido pelo:
 
 * JavaScript
 
-Através de uma API ao qual foi feito a simulação de uma Pokédex, acessório do anime Pokemon, também conhecida como Poké-Agenda.
+Afim de integrar uma API a aplicação, foi desenvolvido uma Pokédex através da API PokéAPI, ao qual disponibiliza Todos os dados de Pokémon, possibilitando o desenvolvimento da Pokédex, acessório do anime Pokemon, também conhecida como Poké-Agenda.
 
 ##
 

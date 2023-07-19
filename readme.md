@@ -1,12 +1,13 @@
 
 # Pokédex
-<div align="right">
+
+> Status: Concluded
+
+<div align="left">
   <sub>Create in</sub>  
   
   `06/10/2021`
 </div>
-
-> Status: Concluded
 
 <img src="https://i.postimg.cc/65FCFK9y/pokedex-img.png" width="100%">
 
